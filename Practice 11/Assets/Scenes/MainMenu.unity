@@ -1073,7 +1073,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 196630593}
         m_TargetAssemblyTypeName: LevelController, Assembly-CSharp
-        m_MethodName: SelectLevel5
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1206,7 +1206,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 196630593}
         m_TargetAssemblyTypeName: LevelController, Assembly-CSharp
-        m_MethodName: SelectLevel2
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1838,7 +1838,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 196630593}
         m_TargetAssemblyTypeName: LevelController, Assembly-CSharp
-        m_MethodName: SelectLevel4
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1971,7 +1971,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 196630593}
         m_TargetAssemblyTypeName: LevelController, Assembly-CSharp
-        m_MethodName: SelectLevel1
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2104,7 +2104,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 196630593}
         m_TargetAssemblyTypeName: LevelController, Assembly-CSharp
-        m_MethodName: SelectLevel3
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
